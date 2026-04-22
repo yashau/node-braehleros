@@ -1,6 +1,6 @@
 {
   "name": "node-braehleros",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BrählerOS conference system client — speaker list, request queue, and live events",
   "main": "index.js",
   "files": [
